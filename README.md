@@ -1,7 +1,7 @@
 ## E aí, tudo bem? Eu me chamo Matheus! Seja bem vindo, fico muito grato pela sua visita!
 
 #### Sou cientista da computação por formação e tenho conhecimento na área de desenvolvimento web. Tenho paixão pelo desenvolvimento Front-end e gosto de desenvolver interfaces que sejam funcionais e agradáveis aos olhos de quem usa.
-#### 🔭 Atualmente, trabalho no [Banco do Brasil](https://bb.com.br/) como Desenvolvedor Full Stack.
+#### 🔭 Atualmente, sou desenvolvedor full-stack na Diretoria de Tecnologia do [Banco do Brasil](https://bb.com.br/).
 
 ## ⚡ Algumas das minhas skills
 <div>
